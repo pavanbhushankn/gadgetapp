@@ -1,0 +1,15 @@
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Sample.Data.dll.config
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\EntityFramework.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Sample.Model.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Elmah.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\Sample.Model.pdb
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\EntityFramework.xml
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\obj\Debug\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\obj\Debug\Sample.Data.Migrations.Test1.resources
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\obj\Debug\Sample.Data.csproj.GenerateResource.Cache
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Data\obj\Debug\Sample.Data.pdb

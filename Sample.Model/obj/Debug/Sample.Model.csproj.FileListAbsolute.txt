@@ -1,0 +1,6 @@
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\bin\Debug\Sample.Model.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\bin\Debug\Sample.Model.pdb
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\bin\Debug\Elmah.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\obj\Debug\Sample.Model.dll
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\obj\Debug\Sample.Model.pdb
+C:\Users\BANPB\Documents\Visual Studio 2015\Projects\WebApiService\Sample.Model\obj\Debug\Sample.Model.csprojResolveAssemblyReference.cache
